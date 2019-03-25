@@ -1,3 +1,5 @@
+## Models Log File
+
 **Model 2**  
 We dummified the variables *Age* and *Geography*.   
 Accuracy - Increased  
@@ -41,3 +43,12 @@ Both *Log_Balance* and *Log_WA* became significant.
 Although the VIF are high through the roof for *Log_Balance* and *Log_WA*.  
 Accuracy - Almost same  
 Adjusted R Squared - Increased
+
+**Model 10**  
+Removed the *Log_WA*
+Accuracy - Increased  
+Adjusted R Squared - Slightly Decreased
+
+
+
+***Model 10 is our final model considering all parameters and effects***
